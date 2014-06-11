@@ -1,4 +1,4 @@
-SwiftDo
+Swift & Core Data
 =======
 
 I wrote this very simple Core Data application to learn how Swift handles and integrates with some core concepts/tools:
